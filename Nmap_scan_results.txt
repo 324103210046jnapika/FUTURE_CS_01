@@ -1,0 +1,12 @@
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.40s latency).
+
+Not shown: 996 closed tcp ports (conn-refused)
+
+PORT      STATE SERVICE
+22/tcp    open  ssh
+80/tcp    open  http
+9929/tcp  open  nping-echo
+31337/tcp open  Elite
+
+Nmap done: 1 IP address (1 host up) scanned in 7.13 seconds
